@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/AnimateX/iSCSI-Server/src/serv/mylib"
+	"iSCSI-Server/src/serv/mylib"
 )
 
 func main() {
