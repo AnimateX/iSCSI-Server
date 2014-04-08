@@ -6,8 +6,6 @@ import (
 )
 
 func main() {
-	
-	fmt.Printf("Hej! %v \n", mylib.Annat())
-	
-}
 
+	fmt.Printf("Hej! %v \n", mylib.Annat())
+}
